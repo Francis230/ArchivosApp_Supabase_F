@@ -29,7 +29,7 @@ La aplicación permite al usuario seleccionar un archivo y subirlo directamente 
    - Se creará el Bucket con el nombre ya establecido.
      ![image](https://github.com/user-attachments/assets/ebdf4927-7003-489c-8bbe-e1f30309eb3c)
 
-   - Luego en el Editor SQL, mandamos un comando para que cualquier usuario pueda insertar algún archivo en Supabase, debido a que las normas o políticas requieren una autenticación para subir algún archivo a pesar de que el almacenamiento o bucket este público.
+   - Luego en el Editor SQL, mandamos un comando para que cualquier usuario pueda insertar algún archivo en Supabase, debido a que las normas o políticas requieren una       autenticación para subir algún archivo a pesar de que el almacenamiento o bucket este público.
    ![image](https://github.com/user-attachments/assets/e5271672-61f5-43d6-a4b2-8317e20ee871)
 
 
@@ -53,7 +53,7 @@ npm install
 
 ```bash
 ionic serve
-
+````
 ![image](https://github.com/user-attachments/assets/cdf6da26-d56e-4181-8dec-db284dcd2628)
 
 ```
@@ -61,10 +61,12 @@ ionic serve
 ### 3. Verificación
 
 * Abrir el navegador y verificar que la aplicación se ejecuta correctamente.
+````
 ![image](https://github.com/user-attachments/assets/175e3e11-3060-4c26-b1a9-169e9e0b08f1)
-
+````
 * Subir un archivo desde la interfaz.
 * Verificar que el archivo se almacena en el bucket configurado en Supabase.
+````
 ![image](https://github.com/user-attachments/assets/e855ecb4-49e8-4909-add3-782ae4d67f42)
 
 
