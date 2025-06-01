@@ -25,3 +25,25 @@
 #container a {
   text-decoration: none;
 }
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 10vh;
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: white;
+  text-align: center;
+}
+
+ion-item {
+  background: transparent;
+  --highlight-background: transparent;
+}
+
+input[type="file"] {
+  margin-top: 10px;
+  color: white;
+}
