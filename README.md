@@ -76,7 +76,5 @@ ionic serve
 * La aplicación se puede ampliar para incluir autenticación con Supabase.
 * El uso de buckets públicos debe manejarse con cuidado para evitar problemas de seguridad.
 
-## Licencia
 
-Este proyecto se distribuye con fines educativos. No tiene licencia asignada.
 
